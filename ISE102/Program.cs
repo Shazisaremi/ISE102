@@ -6,7 +6,7 @@ namespace ISE102
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Wellcome To ISE102 !");
         }
     }
 }
