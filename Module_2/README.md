@@ -10,16 +10,8 @@ This module brings to you another set of very important programming fundamental 
 ## Syntax
 C# syntax is inspired by C and C++ syntax. In this section, we describe C#’s elements of syntax, using the following program:
 ```c#
-using System;
-
-class Test
-{
-  static void Main()
-  {
-    int x = 12 * 30;
-    Console.WriteLine (x);
-  }
-}
+int x = 12 * 30;
+Console.WriteLine (x);
 ```
 
 ### Identifiers and Keywords
