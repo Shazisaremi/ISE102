@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISE102", "ISE102\ISE102.csproj", "{109E3304-BB25-4D5D-8727-F638C0612154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISE102", "ISE102\ISE102.csproj", "{109E3304-BB25-4D5D-8727-F638C0612154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_2", "Module_2\Module_2.csproj", "{6B52246F-DB3D-448F-AC3E-44B33A75D100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module_2", "Module_2\Module_2.csproj", "{6B52246F-DB3D-448F-AC3E-44B33A75D100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_3", "Module_3\Module_3.csproj", "{5133EF55-820C-4EA5-8D76-FA6985780B9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6B52246F-DB3D-448F-AC3E-44B33A75D100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B52246F-DB3D-448F-AC3E-44B33A75D100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B52246F-DB3D-448F-AC3E-44B33A75D100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5133EF55-820C-4EA5-8D76-FA6985780B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5133EF55-820C-4EA5-8D76-FA6985780B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5133EF55-820C-4EA5-8D76-FA6985780B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5133EF55-820C-4EA5-8D76-FA6985780B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
