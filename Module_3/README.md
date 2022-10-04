@@ -5,8 +5,8 @@
 using System.Text.RegularExpressions;
 
 string alpha = @"[a-zA-Z]"; // Alphabetic characters Regex
-string digit = @"\d"; // Digital Characters Regex
-string specc = @"\W"; // Special Characters Regex
+string digit = @"\d";      // Digital Characters Regex
+string specc = @"\W";     // Special Characters Regex
 
 string password = "Hello World";
 
