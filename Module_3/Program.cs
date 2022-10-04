@@ -22,13 +22,13 @@ namespace Module_3
 
             string password = "Hello World";
 
-            bool has_alpha = Regex.IsMatch(password, alpha);
-            bool has_digit = Regex.IsMatch(password, digit);
-            bool has_specc = Regex.IsMatch(password, specc);
+            bool has_alpha = Regex.IsMatch(password, alpha); // Check if the password contains alphabetic characters
+            bool has_digit = Regex.IsMatch(password, digit); // Check if the password contains digital numbers.
+            bool has_specc = Regex.IsMatch(password, specc); // Check if the password contains special characters.
 
-            Console.WriteLine(has_alpha);
-            Console.WriteLine(has_digit);
-            Console.WriteLine(has_specc);
+            Console.Write(has_alpha); // Prints True if password contains alphabetic character otherwise prints False
+            Console.WriteLine(has_digit); // Prints True if password contains numeric character otherwise prints False
+            Console.WriteLine(has_specc); // Prints True if password contains special character otherwise prints False
         }
     }
 }
