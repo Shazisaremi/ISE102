@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ISE102
+namespace Exercise_1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wellcome To ISE102 !");
+            Console.WriteLine("Hello World!");
         }
     }
 }

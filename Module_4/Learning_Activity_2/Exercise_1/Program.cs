@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M4LA2_Exercise_1
+namespace Exercise_1
 {
     class Program
     {
@@ -12,9 +12,9 @@ namespace M4LA2_Exercise_1
             Console.WriteLine("Number of the multiples:\t");
             int m_num = Convert.ToInt32(Console.ReadLine());
 
-            for (int i=0; i <= m_num; i++)
+            for (int i = 0; i <= m_num; i++)
             {
-                Console.Write(i*m_base);
+                Console.Write(i * m_base);
                 Console.Write(", ");
             }
         }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M4LA3_Exercise_1
+namespace Exercise_1
 {
     class Program
     {

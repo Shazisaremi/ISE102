@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M4LA4_Exercise_1
+namespace Exercise_1
 {
     class Program
     {
@@ -19,8 +19,8 @@ namespace M4LA4_Exercise_1
                 Console.Write("Remain Attempts:\t");
                 Console.WriteLine(7 - i);
             }
-            if (guess_num != num) 
-            { 
+            if (guess_num != num)
+            {
                 Console.WriteLine("Failed.");
                 Console.Write("The Number was:\t");
                 Console.WriteLine(num);
