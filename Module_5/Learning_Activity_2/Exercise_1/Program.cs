@@ -6,7 +6,11 @@ namespace Exercise_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string myString = "789xyzw";
+            for (int i = 0; i < myString.Length; i++)
+            {
+                Console.Write(myString[myString.Length - i - 1]);
+            }
         }
     }
 }
