@@ -1,4 +1,6 @@
-﻿public class BankAccount
+﻿using System;
+
+public class BankAccount
 {
     public string Number { get; }
     public string Owner { get; set; }

@@ -1,4 +1,6 @@
-﻿public class BankAccount
+﻿using System;
+
+public class BankAccount
 {
     public string Number { get; } // Define number property that just support get
     public string Owner { get; set; } // Define Owner property that support both get and set
