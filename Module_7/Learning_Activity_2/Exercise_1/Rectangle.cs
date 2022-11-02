@@ -2,14 +2,16 @@
 
 namespace Exercise_1
 {
-    public class Rectangle : Shape
+    public class Rectangle : Shape // Inherited from Shape Class
     {
+        // Define Constructor with initial length and width
         public Rectangle(double length, double width)
         {
             Length = length;
             Width = width;
         }
 
+        // Defining and Overriding the Properties
         public double Length { get; }
 
         public double Width { get; }

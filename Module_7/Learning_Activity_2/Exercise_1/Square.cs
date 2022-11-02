@@ -2,13 +2,15 @@
 
 namespace Exercise_1
 {
-    public class Square : Shape
+    public class Square : Shape // Inherited from Shape Class
     {
+        // Define Constructor with initial length
         public Square(double length)
         {
             Side = length;
         }
 
+        // Defining and Overriding the Properties
         public double Side { get; }
 
         public override double Area => Math.Pow(Side, 2);
