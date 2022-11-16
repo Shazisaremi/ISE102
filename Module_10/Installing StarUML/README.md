@@ -8,3 +8,6 @@ Post your commented screenshots to the Module 10 Learning Activity 1 discussion 
 Download StarUML from the following link: 
 https://staruml.io/download
 
+<p align="center">
+<img src="assets/1.png">
+</p>
