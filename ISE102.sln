@@ -85,9 +85,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learning_Activity_1", "Lear
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learning_Activity_2", "Learning_Activity_2", "{1EF61E10-88C4-4E29-92D6-5E127D735ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_8\Learning_Activity_2\Exercise_1\Exercise_1.csproj", "{02AFA35F-D4B7-4979-987A-BB8B1B86292D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1", "Module_8\Learning_Activity_2\Exercise_1\Exercise_1.csproj", "{02AFA35F-D4B7-4979-987A-BB8B1B86292D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2", "Module_8\Learning_Activity_2\Exercise_2\Exercise_2.csproj", "{FBD31E02-9C1C-41E0-8DC7-720A3AF36FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2", "Module_8\Learning_Activity_2\Exercise_2\Exercise_2.csproj", "{FBD31E02-9C1C-41E0-8DC7-720A3AF36FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module_10", "Module_10", "{3786EA1D-6374-4538-A36E-E5F93184B885}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installing StarUML", "Installing StarUML", "{EA18CAE6-2FBA-41BD-8D1C-D57CCC7F3D46}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{472D2CC3-A928-467F-9753-49A860241132}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +230,8 @@ Global
 		{1EF61E10-88C4-4E29-92D6-5E127D735ED2} = {097D3B7B-385E-49D6-B053-5B059E962B23}
 		{02AFA35F-D4B7-4979-987A-BB8B1B86292D} = {1EF61E10-88C4-4E29-92D6-5E127D735ED2}
 		{FBD31E02-9C1C-41E0-8DC7-720A3AF36FEE} = {1EF61E10-88C4-4E29-92D6-5E127D735ED2}
+		{EA18CAE6-2FBA-41BD-8D1C-D57CCC7F3D46} = {3786EA1D-6374-4538-A36E-E5F93184B885}
+		{472D2CC3-A928-467F-9753-49A860241132} = {EA18CAE6-2FBA-41BD-8D1C-D57CCC7F3D46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEA13CEF-01B8-430D-8D42-3A33290D8068}
