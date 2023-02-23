@@ -1,12 +1,3 @@
 ﻿using System;
+Console.WriteLine("Hello World!");
 
-namespace Module_1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
