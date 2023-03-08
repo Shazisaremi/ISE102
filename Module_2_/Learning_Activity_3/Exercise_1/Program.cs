@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Fahrenheit :");
+﻿float x;
+Console.WriteLine("Fahrenheit :");
 string F = Console.ReadLine();
 int Fint = Convert.ToInt32(F);
 Console.WriteLine("Celsius :");
