@@ -103,15 +103,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module_2", "Module_2", "{48
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learning_Activity_1", "Learning_Activity_1", "{43629613-7564-49AC-A392-D8950CBCA90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2_\Learning_Activity_1\Exercise_1\Exercise_1.csproj", "{E69C5FCD-780F-459B-951E-E16326A94322}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2\Learning_Activity_1\Exercise_1\Exercise_1.csproj", "{E69C5FCD-780F-459B-951E-E16326A94322}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learning_Activity_2", "Learning_Activity_2", "{42C7F66D-F41C-47AC-A5F2-5575F22D4523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2_\Learning_Activity_2\Exercise_1\Exercise_1.csproj", "{54CDE1F8-D27F-4613-B977-AEBF8DCA4CB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2\Learning_Activity_2\Exercise_1\Exercise_1.csproj", "{54CDE1F8-D27F-4613-B977-AEBF8DCA4CB9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learning_Activity_3", "Learning_Activity_3", "{2BD060E5-DEEE-43A7-997C-DC95451C7B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2_\Learning_Activity_3\Exercise_1\Exercise_1.csproj", "{69C27882-F70A-4A88-8D91-DA6E13482B1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "Module_2\Learning_Activity_3\Exercise_1\Exercise_1.csproj", "{69C27882-F70A-4A88-8D91-DA6E13482B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
