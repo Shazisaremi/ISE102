@@ -1,4 +1,4 @@
-﻿# Intorduction
+# Intorduction
 Welcome to Module 2 of Introduction to Software Engineering!
 
 In Module 1, you had learnt how to set up the Visual Studio environment to create, store and execute C# programs/projects. In addition to that, you had also implemented your first C# program along with the computer programming concepts.

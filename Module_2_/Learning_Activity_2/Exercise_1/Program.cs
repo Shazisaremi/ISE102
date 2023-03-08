@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Radius:");
+Console.WriteLine("Radius:");
 string radius = Console.ReadLine();
 int radiusInt = Convert.ToInt32(radius);
 Console.WriteLine("Height:");

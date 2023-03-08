@@ -1,4 +1,3 @@
-﻿float x;
 Console.WriteLine("Fahrenheit :");
 string F = Console.ReadLine();
 int Fint = Convert.ToInt32(F);

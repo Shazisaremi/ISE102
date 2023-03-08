@@ -1,4 +1,4 @@
-﻿double body_weight; // Define The body weight as a double type
+double body_weight; // Define The body weight as a double type
 double body_height; // Define the Body height as a double type
 double bmi; // BMI 
 Console.WriteLine("enter the body weight in Kg!"); // Ask user to enter weight in KG
